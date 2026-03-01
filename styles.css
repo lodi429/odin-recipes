@@ -21,9 +21,6 @@ body {
   margin: 16px;
   display: inline-block;
 }
-.recipebox{
-  padding-left: 0px;
-}
 .images{
   border-radius: 16px;
   border: 4px solid black;
